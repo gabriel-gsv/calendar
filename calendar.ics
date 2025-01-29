@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ical.marudot.com//iCal Event Maker
+PRODID:Calendar
 X-WR-CALNAME:Calendar Test v2
 NAME:Calendar Test v2
 REFRESH-INTERVAL;VALUE=DURATION:P15M
